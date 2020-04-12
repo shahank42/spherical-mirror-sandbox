@@ -4,6 +4,8 @@ A web application for visualizing the images formed by the reflected rays of a s
 
 Helpful piece of software for 10th grade CBSE students.
 
+Made using the [p5.js library.](https://p5js.org/)
+
 ## Usage
 
 Open the app at the index.html file.
