@@ -2,15 +2,21 @@
 
 A web application for visualizing the images formed by the reflected rays of a spherical mirror.
 
-Helpful piece of software for 10th grade CBSE students.
+Helpful piece of software for 10th grade CBSE students. 
+
+Use it at: https://shahank42.github.io/spherical-mirror-sandbox
+
+![Demo](https://github.com/shahank42/spherical-mirror-sandbox/blob/master/demo1.gif?raw=true)
 
 Made using the [p5.js library](https://p5js.org/).
 
 ## Usage
 
-Open the app at the index.html file.
+Go to https://shahank42.github.io/spherical-mirror-sandbox and use it.
 
-![Demo](https://github.com/shahank42/spherical-mirror-sandbox/blob/master/demo1.gif?raw=true)
+Alternatively, download the source code and open the index.html file.
+
+---
 
 Use the left and right arrow keys to change the object distance relative to the mirror.
 
